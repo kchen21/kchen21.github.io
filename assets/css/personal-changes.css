@@ -1,0 +1,33 @@
+section #nav-bar {
+  margin: 1em;
+}
+
+#header img.profile {
+  border: 5px solid #333;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.live-link {
+  text-transform: capitalize;
+  font-size: 65%;
+}
+
+.github-link {
+  text-transform: capitalize;
+  font-size: 65%;
+}
+
+.contact-info {
+  text-align: center;
+  float: left;
+}
+
+.contact-github {
+  text-align: center;
+  margin: 0 auto;
+}
