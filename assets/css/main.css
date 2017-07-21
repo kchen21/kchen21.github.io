@@ -1094,6 +1094,14 @@
 
 	@media screen and (max-width: 736px) {
 
+		.gallery {
+			background: #35b88f url(images/banner.svg) bottom center no-repeat;
+		}
+
+		.inner:after {
+			content: none !important;
+		}
+
 		.row > * {
 			padding: 20px 0 0 20px;
 		}
