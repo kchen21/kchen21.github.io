@@ -2443,8 +2443,12 @@
 
 				.box.style2 .inner .image {
 					padding: 0;
-					max-width: 250px;
+					max-width: 100px;
 					margin: 0 auto 20px auto;
+				}
+
+				.dev-tool-image {
+					max-width: 100px;
 				}
 
 				.box.style3 {
