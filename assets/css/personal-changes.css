@@ -31,3 +31,9 @@ section #nav-bar {
   text-align: center;
   margin: 0 auto;
 }
+
+.skill-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
